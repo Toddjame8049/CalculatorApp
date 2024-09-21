@@ -14,7 +14,7 @@ A simple command-line calculator built in Java. The calculator can perform basic
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CalculatorApp.git
+   git clone https://github.com/toddjame8049/CalculatorApp.git
 2.Open the project in IntelliJ IDEA or any Java IDE.
 
 3.Run the Calculator.java file to start the program.
